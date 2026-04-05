@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/music.js": {
-      "runtime": "nodejs18.x"
+      "maxDuration": 10
     }
   }
 }
